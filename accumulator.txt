@@ -4,6 +4,10 @@ detected by Git.. and probably. my assumption is that I would have options to ch
 I could add this change into "Staging Environment" and then able to commit. by which new version of
 file would created...... am I right?? You will see the answer in the next line.
 
+I am now in GiHub and writing this txt. what I am trying to do now is just to make change..  this file was originally created in local 
+computer. I did sth like.  was in my working place(or folder or directory.. called "simple-git-demo".. I have done serveral activities
+to learn how the Git works..  so firstly I created new folder with the command of "mkdir xxxxx" .....etc...
+
 
 /* 
 public class Accumulator {
