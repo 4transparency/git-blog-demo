@@ -1,3 +1,4 @@
+// This is the first change I made in this file  in order see how the f******* git is working
 public class Accumulator {
 	static int sum;
 	static void add(int i) {
