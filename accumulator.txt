@@ -1,4 +1,11 @@
-// This is the first change I made in this file  in order see how the f******* git is working
+/* @This is the first change I made in this file  in order see how the f******* git is working
+ @this is the second change. "test branch was just created". this change I am making now will be
+detected by Git.. and probably. my assumption is that I would have options to choose.. 
+I could add this change into "Staging Environment" and then able to commit. by which new version of
+file would created...... am I right?? You will see the answer in the next line.
+
+
+/* 
 public class Accumulator {
 	static int sum;
 	static void add(int i) {
